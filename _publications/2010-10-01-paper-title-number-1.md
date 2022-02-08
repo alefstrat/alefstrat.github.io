@@ -17,7 +17,7 @@ PLOS One, *17*(2)
 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263716)
 
 \*Joint first author.
-
+<!-- 
 Conference talks
 ---
 
@@ -25,6 +25,6 @@ Conference talks
 
 Alexandros Efstratiou, Andrew J. Marcinko
 **The leader oversight bias in justice and hypocrisy evaluations of organisational diversity practices**
-Academy of Management Annual Proceedings, *2021*(1)
+Academy of Management Annual Proceedings, *2021*(1) -->
 
 ---
