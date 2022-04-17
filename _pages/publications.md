@@ -17,6 +17,8 @@ For a more extended record of my work, including pre-prints, please visit my [Go
 PLOS One, *17*(2)\
 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263716)
 
+Media coverage: [NBC](https://www.nbcnews.com/think/opinion/ivermectin-myths-make-covid-vaccine-test-psas-harder-sell-rcna22901)
+
 \*Joint first author.
 
 ---
