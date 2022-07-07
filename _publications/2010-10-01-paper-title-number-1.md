@@ -11,6 +11,10 @@ For a more extended record of my work, including pre-prints, please visit my [Go
 
 **2022** 
 
+Alexandros Efstratiou, Emiliano De Cristofaro
+**Adherence to misinformation on social media through socio-cognitive and group-based processes**
+To appear at the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)
+
 \*Jack P. Hughes, Alexandros Efstratiou, Sara R. Komer, Lilli A. Baxter, Milica Vasiljevic, Ana C. Leite
 **The impact of risk perceptions and belief in conspiracy theories on COVID-19 pandemic-related behaviours**
 PLOS One, *17*(2)
