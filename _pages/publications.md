@@ -14,7 +14,7 @@ For a more extended record of my work, including pre-prints, please visit my [Go
 
 Alexandros Efstratiou, Emiliano De Cristofaro\
 **Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**\
-To Appear at the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)
+To Appear at the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)\
 [arXiv preprint](https://arxiv.org/abs/2206.15237)
 
 \*Jack P. Hughes, Alexandros Efstratiou, Sara R. Komer, Lilli A. Baxter, Milica Vasiljevic, Ana C. Leite\
