@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am undertaking a PhD in Cybersecurity at University College London [(UCL)](https://www.ucl.ac.uk/), supervised by [Prof. Emiliano De Cristofaro](https://emilianodc.com/) and [Dr Tristan Caulfield](https://www.tristancaulfield.com/). My work draws from various fields, including human-computer interaction, computational social science, social psychology, and behavioral science.
+I am undertaking a PhD in Cybersecurity at University College London [(UCL)](https://www.ucl.ac.uk/), supervised by [Prof. Emiliano De Cristofaro](https://emilianodc.com/) and [Dr Tristan Caulfield](https://www.tristancaulfield.com/). My work draws from various fields, including human-computer interaction, computational social science, social psychology, political psychology, and behavioral science.
 
 ## Research
 
