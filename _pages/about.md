@@ -18,11 +18,11 @@ I study the sociocognitive aspects of why misinformation proliferates online, an
 - **MSc in Behavioural Science**  
   *Durham University*  
   Kurt Lewin Prize as cohort top performer  
-  Dissertation supervisor: [Dr. Andrew Marcinko](https://marcinkophd.com/)
+  Dissertation supervisor: [Dr. Andrew Marcinko](https://www.durham.ac.uk/staff/andrew-j-marcinko/)
 - **BSc in Psychology**  
   *University of East Anglia*  
   British Psychological Society Award for Outstanding Undergraduate Performance (cohort top performer)  
-  Dissertation supervisor: [Dr. Charles Seger](https://people.uea.ac.uk/c_seger)
+  Dissertation supervisor: [Dr. Charles Seger](https://research-portal.uea.ac.uk/en/persons/charles-seger)
 
 ## Personal
 
