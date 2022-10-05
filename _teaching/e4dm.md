@@ -2,7 +2,7 @@
 title: "Evidence for Decision-Making"
 collection: teaching
 type: "MPA"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/e4dm
 venue: "UCL, Department of Science, Technology, Engineering, and Public Policy"
 date: 2022-09-28
 location: "London, United Kingdom"
