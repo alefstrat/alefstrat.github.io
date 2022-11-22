@@ -20,7 +20,7 @@ To appear at The 17th International AAAI Conference on Web and Social Media (ICW
 
 Alexandros Efstratiou, Emiliano De Cristofaro  
 **Adherence to misinformation on social media through socio-cognitive and group-based processes**  
-Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)
+Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)\
 [link](https://dl.acm.org/doi/abs/10.1145/3555589)
 
 \*Jack P. Hughes, Alexandros Efstratiou, Sara R. Komer, Lilli A. Baxter, Milica Vasiljevic, Ana C. Leite  
