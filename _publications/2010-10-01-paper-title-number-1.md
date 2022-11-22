@@ -9,11 +9,19 @@ Publications
 This is a list of peer-reviewed publications.
 For a more extended record of my work, including pre-prints, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=hlaOWkgAAAAJ&hl=en). 
 
+**2023**
+
+Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro
+**Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**
+To appear at The 17th International AAAI Conference on Web and Social Media (ICWSM 2023)
+(preprint forthcoming)
+
 **2022** 
 
 Alexandros Efstratiou, Emiliano De Cristofaro  
 **Adherence to misinformation on social media through socio-cognitive and group-based processes**  
-To appear at the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)
+Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)
+[link](https://dl.acm.org/doi/abs/10.1145/3555589)
 
 \*Jack P. Hughes, Alexandros Efstratiou, Sara R. Komer, Lilli A. Baxter, Milica Vasiljevic, Ana C. Leite  
 **The impact of risk perceptions and belief in conspiracy theories on COVID-19 pandemic-related behaviours**  
