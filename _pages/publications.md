@@ -28,7 +28,6 @@ Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)\
 **The impact of risk perceptions and belief in conspiracy theories on COVID-19 pandemic-related behaviours**\
 PLOS One, *17*(2)\
 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263716)\
-Media coverage: [NBC](https://www.nbcnews.com/think/opinion/ivermectin-myths-make-covid-vaccine-test-psas-harder-sell-rcna22901)
 
 \*Joint first author.
 
