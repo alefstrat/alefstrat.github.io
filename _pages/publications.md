@@ -10,18 +10,24 @@ author_profile: true
 This is a list of peer-reviewed publications.
 For a more extended record of my work, including pre-prints, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=hlaOWkgAAAAJ&hl=en). 
 
+**2023**
+
+Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro
+**Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**\
+To appear at The 17th International AAAI Conference on Web and Social Media (ICWSM 2023)\
+[preprint](https://arxiv.org/abs/2211.14388)
+
 **2022** 
 
-Alexandros Efstratiou, Emiliano De Cristofaro\
-**Adherence to Misinformation on Social Media Through Socio-Cognitive and Group-Based Processes**\
-To Appear at the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)\
-[arXiv preprint](https://arxiv.org/abs/2206.15237)
+Alexandros Efstratiou, Emiliano De Cristofaro  
+**Adherence to misinformation on social media through socio-cognitive and group-based processes**  
+Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)\
+[link](https://dl.acm.org/doi/abs/10.1145/3555589)
 
 \*Jack P. Hughes, Alexandros Efstratiou, Sara R. Komer, Lilli A. Baxter, Milica Vasiljevic, Ana C. Leite\
 **The impact of risk perceptions and belief in conspiracy theories on COVID-19 pandemic-related behaviours**\
 PLOS One, *17*(2)\
-[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263716)\
-Media coverage: [NBC](https://www.nbcnews.com/think/opinion/ivermectin-myths-make-covid-vaccine-test-psas-harder-sell-rcna22901)
+[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263716)
 
 \*Joint first author.
 
