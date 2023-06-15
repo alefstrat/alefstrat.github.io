@@ -14,8 +14,8 @@ For a more extended record of my work, including pre-prints, please visit my [Go
 
 Alexandros Efstratiou, Jeremy Blackburn, Tristan Caulfield, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro
 **Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit**\
-To appear at The 17th International AAAI Conference on Web and Social Media (ICWSM 2023)\
-[preprint](https://arxiv.org/abs/2211.14388)
+17th International AAAI Conference on Web and Social Media (ICWSM 2023)\
+[link](https://ojs.aaai.org/index.php/ICWSM/article/view/22138)
 
 **2022** 
 
