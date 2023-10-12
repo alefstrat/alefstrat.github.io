@@ -7,13 +7,13 @@ author_profile: true
 
 ## Program Committee
 
-* ICWSM 2023
+* ICWSM 2023-2024
 
 ## Reviewer
 
+* ICWSM 2023-2024
 * EPJ Data Science
 * CogSci 2023
-* ICWSM 2023
 * CSCW 2023
 
 ## Shadow/secondary reviewer
