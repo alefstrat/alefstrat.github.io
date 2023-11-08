@@ -11,6 +11,7 @@ author_profile: true
 
 ## Reviewer
 
+* CHI 2024
 * ICWSM 2023-2024
 * EPJ Data Science
 * CogSci 2023
