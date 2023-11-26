@@ -11,7 +11,7 @@ I am undertaking a PhD in Cybersecurity at University College London [(UCL)](htt
 
 ## Research
 
-I study the sociocognitive aspects of why misinformation proliferates online, and why trends of polarization are continually rising. My research takes the view that polarization can create a fertile environment for misinformation to proliferate. Primarily, I attempt to understand the motivations behind why people believe certain things over others, how these motivations impact upon information processing, and the contexts under which accuracy goals can supersede other motivations in information processing.
+I study the sociocognitive aspects of why misinformation proliferates online, and why trends of polarization are continually rising. My research takes the view that polarization can create a fertile environment for misinformation to proliferate, and analyzes the effects of social media on informational environment health. Primarily, I attempt to understand the motivations behind why people believe certain things over others, how these motivations impact upon information processing, and the contexts under which accuracy goals can supersede other motivations, like identity-protective ones, in information processing.
 
 ## Education
 
