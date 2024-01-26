@@ -8,7 +8,13 @@ author_profile: true
 {% include base_path %}
 
 This is a list of peer-reviewed publications.
-For a more extended record of my work, including pre-prints, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=hlaOWkgAAAAJ&hl=en). 
+For a more extended record of my work, including pre-prints, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=hlaOWkgAAAAJ&hl=en).
+
+**2024**
+
+Alexandros Efstratiou\
+**Deliberate Exposure to Opposing Views and its Association with Behavior and Rewards on Political Communities**\
+To appear at the ACM Web Conference 2024 (WWW '24)\
 
 **2023**
 
