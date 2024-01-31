@@ -14,7 +14,8 @@ For a more extended record of my work, including pre-prints, please visit my [Go
 
 Alexandros Efstratiou\
 **Deliberate Exposure to Opposing Views and its Association with Behavior and Rewards on Political Communities**\
-To appear at the ACM Web Conference 2024 (WWW '24)
+To appear at the ACM Web Conference 2024 (WWW '24)\
+[preprint](https://arxiv.org/abs/2401.14608)
 
 **2023**
 
