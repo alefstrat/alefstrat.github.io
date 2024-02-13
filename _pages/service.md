@@ -11,11 +11,11 @@ author_profile: true
 
 ## Reviewer
 
-* CHI 2024
+* CSCW 2023-2024
 * ICWSM 2023-2024
+* CHI 2024
 * EPJ Data Science
 * CogSci 2023
-* CSCW 2023
 
 ## Shadow/secondary reviewer
 
