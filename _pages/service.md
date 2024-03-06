@@ -14,6 +14,7 @@ author_profile: true
 * CSCW 2023-2024
 * ICWSM 2023-2024
 * CHI 2024
+* DIS 2024
 * EPJ Data Science
 * CogSci 2023
 
