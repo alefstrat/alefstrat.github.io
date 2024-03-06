@@ -9,6 +9,7 @@ author_profile: true
 
 **University College London**
 
-People and Security - *MSc course* (First term, 2023)\
-Probability, Statistics, and Modelling I - *BSc course* (First term, 2023)\
-Evidence for Decision-Making - *MPA course* (First term, 2022)
+Cybersafety and Online Harms - *MSc course* (Second term, 2023-24)\
+People and Security - *MSc course* (First term, 2023-24)\
+Probability, Statistics, and Modelling I - *BSc course* (First term, 2023-24)\
+Evidence for Decision-Making - *MPA course* (First term, 2022-23)
