@@ -13,8 +13,8 @@ For a more extended record of my work, including pre-prints, please visit my [Go
 **2024**
 
 Alexandros Efstratiou, Marina Efstratiou, Satrio Yudhoatmojo, Jeremy Blackburn, Emiliano De Cristofaro\
-**``Here's Your Evidence'': False Consensus in Public Twitter Discussions of COVID-19 Science**\
-To appear at The 27th ACM SIGCHI Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '24)
+**"Here's Your Evidence'': False Consensus in Public Twitter Discussions of COVID-19 Science**\
+To appear at The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '24)\
 [preprint](https://arxiv.org/abs/2401.13248)
 
 Alexandros Efstratiou\
