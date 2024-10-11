@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am undertaking a PhD in Cybersecurity at University College London [(UCL)](https://www.ucl.ac.uk/), supervised by [Prof. Emiliano De Cristofaro](https://emilianodc.com/) and [Dr Tristan Caulfield](https://www.tristancaulfield.com/). My work draws from various fields, including human-computer interaction, computational social science, social psychology, political psychology, and behavioral science.
+I am an incoming Postdoctoral Fellow at the University of Washington's [Center for an Informed Public](https://www.cip.uw.edu/). Previously, I undertook a PhD in Computational Social Science at University College London [(UCL)](https://www.ucl.ac.uk/).
 
 ## Research
 
-I study the sociocognitive aspects of why misinformation proliferates online, and why trends of polarization are continually rising. My research takes the view that polarization can create a fertile environment for misinformation to proliferate, and analyzes the effects of social media on informational environment health. Primarily, I attempt to understand the motivations behind why people believe certain things over others, how these motivations impact upon information processing, and the contexts under which accuracy goals can supersede other motivations, like identity-protective ones, in information processing.
+I analyze the sociocognitive aspects of why misinformation proliferates online, and why trends of polarization are continually rising. My research takes the view that polarization can create a fertile environment for misinformation to proliferate, and examines the effects of social media on informational environment health. In my work, I view these topics from the lens of misperceptions about ground realities, outgroups, et cetera, and I employ computational social science methods to understand and intervene in these online harms. 
 
 ## Education
 
+- **PhD in Computer Science**
+  *University College London (UCL)*
+  Primary advisor: [Prof. Emiliano De Cristofaro](https://emilianodc.com)
+  Secondary advisor: [Dr. Tristan Caulfield](https://www.tristancaulfield.com/)
 - **MSc in Behavioural Science**  
   *Durham University*  
   Kurt Lewin Prize as cohort top performer  
