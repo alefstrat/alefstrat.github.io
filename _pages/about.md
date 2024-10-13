@@ -15,10 +15,10 @@ I analyze the sociocognitive aspects of why misinformation proliferates online, 
 
 ## Education
 
-- **PhD in Computer Science**
-  *University College London (UCL)*
-  Primary advisor: [Prof. Emiliano De Cristofaro](https://emilianodc.com)
-  Secondary advisor: [Dr. Tristan Caulfield](https://www.tristancaulfield.com/)
+- **PhD in Computer Science**  
+  *University College London (UCL)*  
+  Primary advisor: [Prof. Emiliano De Cristofaro](https://emilianodc.com)  
+  Secondary advisor: [Dr. Tristan Caulfield](https://www.tristancaulfield.com/)  
 - **MSc in Behavioural Science**  
   *Durham University*  
   Kurt Lewin Prize as cohort top performer  
