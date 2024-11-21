@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Postdoctoral Fellow at the University of Washington's [Center for an Informed Public](https://www.cip.uw.edu/). Previously, I undertook a PhD in Computational Social Science at University College London [(UCL)](https://www.ucl.ac.uk/).
+I am an incoming Postdoctoral Scholar at the University of Washington's [Center for an Informed Public](https://www.cip.uw.edu/). Previously, I undertook a PhD in Computational Social Science at University College London [(UCL)](https://www.ucl.ac.uk/).
 
 ## Research
 
