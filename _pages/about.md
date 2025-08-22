@@ -11,7 +11,7 @@ I am a Postdoctoral Scholar at the University of Washington's [Center for an Inf
 
 ## Research
 
-I analyze the sociocognitive aspects of why misinformation proliferates online, and why trends of polarization are continually rising. My research takes the view that polarization can create a fertile environment for misinformation to proliferate, and examines the effects of social media on informational environment health. In my work, I view these topics from the lens of misperceptions about ground realities, outgroups, et cetera, and I employ computational social science methods to understand and intervene in these online harms. 
+My primary research area is polarization on social media, particularly as it relates to people's informational and cultural environments. I am interested in how sociopolitical divides contribute to, or are affected by, external factors like lifestyle choices and media consumption. Beyond that, I am also interested in how recommendation algorithms and social media network effects relate to polarization through homogenization.
 
 ## Education
 
@@ -30,4 +30,4 @@ I analyze the sociocognitive aspects of why misinformation proliferates online, 
 
 ## Personal
 
-I was born in Limassol, Cyprus. I like to spend my free time as creatively as I can, and I usually spend it playing guitar or writing music, editing videos, experimenting with new food recipes (usually unsuccessfully), or reading non-fiction. When I can't be bothered to do any of those, I'll probably be playing whatever's on sale on Steam that week.
+I was born in Limassol, Cyprus. In my free time, you will catch me reading anything from fantasy books to non-fiction, playing the guitar, writing music, homebrewing, or experimenting with new food recipes (to varying levels of success). When I can't be bothered to do any of those, I'll probably be playing whatever caught my eye on Steam that week.
