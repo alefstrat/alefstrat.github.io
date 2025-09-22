@@ -10,6 +10,20 @@ author_profile: true
 This is a list of peer-reviewed publications.
 For a more extended record of my work, including pre-prints, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=hlaOWkgAAAAJ&hl=en).
 
+**2026**
+
+Kayla Duskin, Joseph S. Schafer, Alexandros Efstratiou, Jevin D. West, Emma S. Spiro\
+**The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 US Midterm Election**\
+To appear in Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)\
+[preprint](https://arxiv.org/abs/2509.09826)
+
+**2025**
+
+Alexandros Efstratiou\
+**On YouTube Search API Use in Research**\
+To appear in Proceedings of the ACM Internet Measurement Conference (IMC '25)\
+[preprint](https://arxiv.org/abs/2506.04422)
+
 **2024**
 
 Alexandros Efstratiou, Marina Efstratiou, Satrio Yudhoatmojo, Jeremy Blackburn, Emiliano De Cristofaro\
