@@ -8,9 +8,14 @@ author_profile: true
 {% include base_path %}
 
 This is a list of peer-reviewed publications.
-For a more extended record of my work, including pre-prints, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=hlaOWkgAAAAJ&hl=en).
+For a more extended record of my work, including preprints, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=hlaOWkgAAAAJ&hl=en).
 
 **2026**
+
+Alexandros Efstratiou, Kayla Duskin, Kate Starbird, Emma S. Spiro\
+**Rabble-Rousers in the New King's Court: Algorithmic Effects on Account Visibility in Pre-X Twitter**\
+To appear in Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)\
+[preprint](https://arxiv.org/abs/2512.06129)
 
 Kayla Duskin, Joseph S. Schafer, Alexandros Efstratiou, Jevin D. West, Emma S. Spiro\
 **The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 US Midterm Election**\
@@ -22,7 +27,7 @@ To appear in Proceedings of the 20th International AAAI Conference on Web and So
 Alexandros Efstratiou\
 **On YouTube Search API Use in Research**\
 To appear in Proceedings of the ACM Internet Measurement Conference (IMC '25)\
-[preprint](https://arxiv.org/abs/2506.04422)
+[link](https://dl.acm.org/doi/abs/10.1145/3730567.3764492)
 
 **2024**
 
