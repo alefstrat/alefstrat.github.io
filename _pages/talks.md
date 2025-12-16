@@ -9,6 +9,12 @@ author_profile: true
 
 Below are my public research talks and panel appearances.
 
+**2025**
+
+UW Impact, University of Washington (Panel)\
+**Understanding and Navigating Political Divides**\
+[recording](https://www.youtube.com/watch?v=jbpGgVHIivE)
+
 **2024**
 
 Oxford Internet Institute, University of Oxford (research talk)\
