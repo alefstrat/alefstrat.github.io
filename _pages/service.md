@@ -7,13 +7,14 @@ author_profile: true
 
 ## Program Committee
 
-* ICWSM 2023-2025
+* ICWSM 2023-2026
+* WWW 2026
+* WebSci 2026
 
 ## Reviewer
 
-* ICWSM 2022-2025
 * CSCW 2023-2025
-* CHI 2024-2025
+* CHI 2024-2026
 * CCS 2024
 * DIS 2024
 * EPJ Data Science
