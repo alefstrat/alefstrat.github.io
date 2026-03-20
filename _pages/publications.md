@@ -12,6 +12,11 @@ For a more extended record of my work, including preprints, please visit my [Goo
 
 **2026**
 
+Alexandros Efstratiou, Giuseppe Russo, Luca Luceri\
+**Information Pathways in Online Science Communication: The Role of Platform Actors and News Media**\
+To appear in Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)\
+[preprint](https://arxiv.org/abs/2603.17249)
+
 Alexandros Efstratiou, Kayla Duskin, Kate Starbird, Emma S. Spiro\
 **Rabble-Rousers in the New King's Court: Algorithmic Effects on Account Visibility in Pre-X Twitter**\
 To appear in Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026)\
