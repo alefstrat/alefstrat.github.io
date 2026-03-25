@@ -31,7 +31,7 @@ To appear in Proceedings of the 20th International AAAI Conference on Web and So
 
 Alexandros Efstratiou\
 **On YouTube Search API Use in Research**\
-To appear in Proceedings of the ACM Internet Measurement Conference (IMC '25)\
+Proceedings of the ACM Internet Measurement Conference (IMC '25)\
 [link](https://dl.acm.org/doi/abs/10.1145/3730567.3764492)
 
 **2024**
