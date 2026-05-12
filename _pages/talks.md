@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Below are my public research talks and panel appearances.
+Below are my public research talks and appearances.
+
+**2026**
+
+Talk of Iowa, Iowa Public Radio (Guest)\
+**The media we consume -- and how we consume it -- can intensify division**
+[episode](https://www.iowapublicradio.org/podcast/talk-of-iowa/2026-05-07/the-media-we-consume-and-how-we-consume-it-can-intensify-division)
 
 **2025**
 
